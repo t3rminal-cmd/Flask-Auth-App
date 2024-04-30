@@ -3,7 +3,7 @@
 ## Python Application Authentication/Template
 
 - Simple python program for authenticating and access log-in.
-- Uses simple Python, HTML, CSS, and JavaScript.
+- Uses simple Python, Jinja2, Flask, HTML, CSS, and JavaScript.
 - Utilizes Flask framework.
 - Utilizes Bootstrap framework.
 - Simple validation and database storing for passwords/username.
