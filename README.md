@@ -2,7 +2,7 @@
 
 ## Python Application Authentication/Template
 
-- Simple python program for authenticating and access log-in.
+- Python program for authenticating and access log-in.
 - Once registered and login, access to Notes app
 - Uses simple Python, Jinja2, Flask, HTML, CSS, and JavaScript.
 - Utilizes Flask framework.
